@@ -33,7 +33,7 @@ This project was my first step into web development, and it came with its share 
 
 
 How to Access the Portfolio:
-The portfolio is live and hosted on GitHub Pages. You can visit the website using this link: [Insert Link Here].  
+The portfolio is live and hosted on GitHub Pages. You can visit the website using this link: [https://github.com/ZainabGhanem04/personal-portfolio-website].  
 
 Resources that inspired me and were very useful:
 1- Freecodecamp youtube channel: there are so many courses and videos about web development.
