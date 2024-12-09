@@ -35,11 +35,4 @@ The portfolio is hosted on GitHub Pages, making it accessible online for anyone 
 [https://zainabghanem04.github.io/personal-portfolio-website/]
 
 
-Resources that inspired me and were very useful:
-
-- Freecodecamp youtube channel: there're great tutorials about web development.
-- W3schools: a great resource to learn the basics.
-- A simple and beautiful portfolio website that inspired me: [https://ziyadsk.github.io/portfolio-V2/]
-
-
 This repository is a significant milestone in my journey as a web developer. Feel free to explore the code, provide feedback, or reach out to me. Thank you for visiting!  
