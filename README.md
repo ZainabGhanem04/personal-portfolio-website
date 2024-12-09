@@ -32,21 +32,7 @@ GitHub Pages Deployment:
 The portfolio is hosted on GitHub Pages, making it accessible online for anyone to view.  
 
 
-How to Access the Portfolio:
-
-The portfolio is live and hosted on GitHub Pages.
-
-1. Clone the repository:
-   
-   git clone https://github.com/ZainabGhanem04/personal-portfolio-website
-   
-2. Navigate to the project directory:
-
-   cd personal-portfolio-website
-
-3. Open the index.html file in your browser to view the site:
-
-   open index.html
+[https://zainabghanem04.github.io/personal-portfolio-website/]
 
 
 Resources that inspired me and were very useful:
