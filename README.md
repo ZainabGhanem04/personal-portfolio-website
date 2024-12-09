@@ -34,7 +34,20 @@ The portfolio is hosted on GitHub Pages, making it accessible online for anyone 
 
 How to Access the Portfolio:
 
-The portfolio is live and hosted on GitHub Pages. You can visit the website using this link: [https://github.com/ZainabGhanem04/personal-portfolio-website].  
+The portfolio is live and hosted on GitHub Pages.
+
+1. Clone the repository:
+   
+   git clone https://github.com/ZainabGhanem04/personal-portfolio-website
+   
+2. Navigate to the project directory:
+
+   cd personal-portfolio-website
+
+3. Open the index.html file in your browser to view the site:
+
+   open index.html
+
 
 Resources that inspired me and were very useful:
 
@@ -43,4 +56,4 @@ Resources that inspired me and were very useful:
 - A simple and beautiful portfolio website that inspired me: [https://ziyadsk.github.io/portfolio-V2/]
 
 
-This repository is a significant milestone in my journey as a web developer. Feel free to explore the code, provide feedback, or reach out to me through the "Contact Me" section on the website. Thank you for visiting!  
+This repository is a significant milestone in my journey as a web developer. Feel free to explore the code, provide feedback, or reach out to me. Thank you for visiting!  
