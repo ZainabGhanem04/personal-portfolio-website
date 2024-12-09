@@ -1,5 +1,6 @@
 Personal Portfolio Website
 
+
 Welcome to the repository for my personal portfolio website! This project was developed as part of my final project for the Web Development 1 course with Paper Airplanes. It serves as a professional showcase of my skills, experience, and projects, highlighting my journey into web development.  
 
 --About the Project--
@@ -37,9 +38,9 @@ The portfolio is live and hosted on GitHub Pages. You can visit the website usin
 
 Resources that inspired me and were very useful:
 
-1. Freecodecamp youtube channel: there're great tutorials about web development.
-2. W3schools: a great resource to learn the basics.
-3. A simple and beautiful portfolio website that inspired me: [https://ziyadsk.github.io/portfolio-V2/]
+- Freecodecamp youtube channel: there're great tutorials about web development.
+- W3schools: a great resource to learn the basics.
+- A simple and beautiful portfolio website that inspired me: [https://ziyadsk.github.io/portfolio-V2/]
 
 
 This repository is a significant milestone in my journey as a web developer. Feel free to explore the code, provide feedback, or reach out to me through the "Contact Me" section on the website. Thank you for visiting!  
