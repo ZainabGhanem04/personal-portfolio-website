@@ -35,19 +35,7 @@ contactLink.addEventListener('mousemove', (e) => {
 
     createStarEffect(x, y); // Trigger the star effect at the mouse pointer position
 });
-
-window.addEventListener('resize', function() {
-    const images = document.querySelectorAll('img');
-    if (window.innerWidth <= 768) {
-      images.forEach(img => img.style.display = 'none');
-    } else {
-      images.forEach(img => img.style.display = '');
-    }
-  });
-  
-  // Run the script on page load to handle the initial size
-window.dispatchEvent(new Event('resize'));
-  
+ 
 // display sections on clicking on the link
 function displaySection(link,section) {
     let lnk = document.querySelector(`#${link}`);
