@@ -45,7 +45,7 @@ function displaySection(link,section) {
     lnk.onclick = (event) => {
         
         // mobile js
-        const mq = window.matchMedia("(max-width: 500px)");
+        const mq = window.matchMedia("(max-width: 600px)");
         if(mq.matches) {
             // show the go-back button when a link is clicked in responsive mode 
             let goBackButton = document.querySelector("#go-back-button");
