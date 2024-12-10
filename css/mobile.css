@@ -9,6 +9,8 @@
         }
     }
 
+    
+      
     #menu {
         display: flex;
         flex-direction: column !important;
@@ -20,6 +22,10 @@
     body {
         position: relative;
         width:85% !important; 
+    }
+
+    #about-me-intro-section img{
+        display: none;
     }
 
     #resume-wrapper {
@@ -96,5 +102,9 @@
     .tags span {
         border:1px solid ; 
         margin-bottom: 0.4em;
+    }
+
+    #links-section img{
+        display: none;
     }
 }
