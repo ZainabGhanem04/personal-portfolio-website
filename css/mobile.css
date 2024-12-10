@@ -8,7 +8,7 @@
             transform: translateY(-20rem)  !important;
         }
     }
-     
+
     #menu {
         display: flex;
         flex-direction: column !important;
@@ -27,7 +27,7 @@
     }
 
     #resume-wrapper {
-        width: 98%;
+        width: 80%;
         text-align: center;
      }
  
@@ -35,9 +35,9 @@
          align-items: center !important ;
          flex-direction: column;
          margin: 0em 0em 3em 0em !important;
-         width: 97% !important;
+         width: 80% !important;
      }
-     
+
      .section{
          display: none;
          margin-top: 10em !important;
@@ -58,7 +58,7 @@
      }
    
     #projects-wrapper {
-       width: 98%;
+       width: 80%;
        text-align: center;
     }
 
@@ -66,9 +66,9 @@
         align-items: center !important ;
         flex-direction: column;
         margin: 0em 0em 3em 0em !important;
-        width: 97% !important;
+        width: 80% !important;
     }
-    
+
     .section{
         display: none;
         margin-top: 10em !important;
